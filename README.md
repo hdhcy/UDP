@@ -1,5 +1,5 @@
 # UDP
-UDP: A Universal Digital-to-Physical World Attack Method
+UDP: A Universal Digital-to-Physical World Adversarial Attack Method
 
 
 **Clone the repository; install dependencies**
